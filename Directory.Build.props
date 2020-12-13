@@ -13,6 +13,9 @@
 
   <PropertyGroup>
     <Authors>Dustin Chilson</Authors>
+    <PackageProjectUrl>https://github.com/dustinchilson/Substrate</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>git://github.com/dustinchilson/Substrate</RepositoryUrl>
   </PropertyGroup>
 
   <Target Name="VSTestIfTestProject">
